@@ -1,0 +1,10 @@
+{
+  "name": "NoorNet Token",
+  "symbol": "NOOR",
+  "description": "Official NoorNet token metadata hosted on GitHub.",
+  "image": "https://raw.githubusercontent.com/jeffbezosten/my-token-assets/main/login.png",
+  "attributes": [
+    { "trait_type": "Project", "value": "NoorNet" },
+    { "trait_type": "Type", "value": "Utility Token" }
+  ]
+}
