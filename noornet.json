@@ -1,11 +1,27 @@
 {
   "name": "NoorNet Token",
-  "symbol": "NN",
-  "description": "Official NoorNet token metadata hosted on GitHub.",
+  "symbol": "NRT",
+  "description": "The official NoorNet token with metadata hosted on GitHub.",
+  "seller_fee_basis_points": 0,
   "image": "https://raw.githubusercontent.com/jeffbezosten/my-token-assets/main/login.png",
+  "external_url": "https://github.com/jeffbezosten/my-token-assets",
   "attributes": [
-    { "trait_type": "Project", "value": "NoorNet" },
-    { "trait_type": "Type", "value": "Utility Token" }
-  ]
+    { "trait_type": "Type", "value": "Utility Token" },
+    { "trait_type": "Network", "value": "Solana" }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/jeffbezosten/my-token-assets/main/logo.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "AZVizd6F7KsvR1SsrYKUPPQWPVFrGLg9Lj8YtKkqr28P",
+        "share": 100
+      }
+    ]
+  }
 }
-
