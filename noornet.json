@@ -12,7 +12,7 @@
   "properties": {
     "files": [
       {
-        "uri": "https://raw.githubusercontent.com/jeffbezosten/my-token-assets/main/logo.png",
+        "uri": "https://raw.githubusercontent.com/jeffbezosten/my-token-assets/2fbf4dcd38782f3e60a0d597ccafc650af812fde/logo.png",
         "type": "image/png"
       }
     ],
@@ -25,6 +25,7 @@
     ]
   }
 }
+
 
 
 
